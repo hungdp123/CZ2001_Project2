@@ -1,6 +1,6 @@
-# CZ2001_Project2
+# CZ2001_Project2: Graph algorithm
 
-1. Problem
+Problem:
 
 You are given an undirected unweighted graph G, which represents a city’s road
 network with n nodes being intersections/endpoints and m edges being roads. Among
